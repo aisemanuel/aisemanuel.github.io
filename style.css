@@ -9,18 +9,14 @@
 }
 
 .github .body {
-  position: relative;
   width: 100%;
-  height: 100%;
-  background-color: #f8f9fa;
-  border: 0px none;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 .github .div {
-  position: relative;
-  height: 2703px;
-  background-color: #f8f9fa;
-  border: 0px none;
+  width: 100%;
 }
 
 .github .overlap {
@@ -50,14 +46,11 @@
 }
 
 .github .frame {
-  display: flex;
+  width: 100%;
+  max-width: 80%;
   flex-direction: column;
-  width: 609px;
   align-items: center;
-  gap: 24px;
-  position: absolute;
-  top: 2px;
-  left: 139px;
+  text-align: center;
 }
 
 .github .text-wrapper {
@@ -75,15 +68,12 @@
 }
 
 .github .i-m-aise-manuel {
-  position: relative;
-  align-self: stretch;
-  font-family: "Inter-Bold", Helvetica;
-  font-weight: 700;
-  color: #2d3436;
-  font-size: 60px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: 60px;
+  font-size: 3rem; /* Responsive text */
+  line-height: 1.2;
+}
+
+.github .born-in-the {
+  font-size: 1.2rem;
 }
 
 .github .born-in-the {
