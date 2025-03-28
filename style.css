@@ -1,0 +1,684 @@
+.github {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  background-color: #f8f9fa;
+  border: 2px solid;
+  border-color: #ced4da;
+}
+
+.github .body {
+  position: relative;
+  width: 1440px;
+  height: 2703px;
+  background-color: #f8f9fa;
+  border: 0px none;
+}
+
+.github .div {
+  position: relative;
+  height: 2703px;
+  background-color: #f8f9fa;
+  border: 0px none;
+}
+
+.github .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 468px;
+  top: 0;
+  left: 0;
+}
+
+.github .section {
+  height: 468px;
+  top: 0;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+  border: 0px none;
+}
+
+.github .div-2 {
+  position: relative;
+  width: 896px;
+  height: 260px;
+  top: 128px;
+  left: 272px;
+  border: 0px none;
+}
+
+.github .frame {
+  display: flex;
+  flex-direction: column;
+  width: 609px;
+  align-items: center;
+  gap: 24px;
+  position: absolute;
+  top: 2px;
+  left: 139px;
+}
+
+.github .text-wrapper {
+  position: relative;
+  align-self: stretch;
+  height: 20px;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #496692;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.github .i-m-aise-manuel {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #2d3436;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 60px;
+}
+
+.github .born-in-the {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #4b5563;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.github .button {
+  all: unset;
+  box-sizing: border-box;
+  width: 170px;
+  height: 48px;
+  top: 212px;
+  left: 363px;
+  position: absolute;
+  background-color: #496692;
+  border-radius: 8px;
+  border: 0px none;
+}
+
+.github .let-s-connect {
+  position: absolute;
+  width: 105px;
+  top: 14px;
+  left: 32px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.github .header {
+  position: absolute;
+  width: 1440px;
+  height: 65px;
+  top: 0;
+  left: 0;
+  background-color: #ffffffcc;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-left-style: none;
+  border-color: #f3f4f6;
+}
+
+.github .div-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 72px;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 0px 16px;
+  position: relative;
+  top: 16px;
+  left: 272px;
+  border: 0px none;
+}
+
+.github .div-3 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 32px;
+  border: 0px none;
+}
+
+.github .text-wrapper-2 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #2d3436;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.github .frame-wrapper {
+  height: 568px;
+  top: 468px;
+  background-color: #ffffff;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+  border: 0px none;
+}
+
+.github .frame-2 {
+  display: flex;
+  width: 864px;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  position: relative;
+  top: 80px;
+  left: 288px;
+}
+
+.github .div-4 {
+  position: relative;
+  width: 408px;
+  height: 292px;
+  border: 0px none;
+}
+
+.github .text-wrapper-3 {
+  position: absolute;
+  width: 143px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #2d3436;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.github .p {
+  position: absolute;
+  width: 399px;
+  top: 70px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #4b5563;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.github .text-wrapper-4 {
+  position: absolute;
+  width: 381px;
+  top: 162px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #4b5563;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.github .div-5 {
+  position: absolute;
+  width: 408px;
+  height: 24px;
+  top: 268px;
+  left: 0;
+  border: 0px none;
+}
+
+.github .img-wrapper {
+  display: flex;
+  width: 21px;
+  height: 24px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.github .img {
+  position: relative;
+  width: 21px;
+  height: 24px;
+}
+
+.github .frame-3 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 37px;
+}
+
+.github .frame-4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.github .frame-5 {
+  display: flex;
+  width: 23px;
+  height: 24px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 77px;
+}
+
+.github .frame-6 {
+  position: relative;
+  width: 23.25px;
+  height: 24px;
+}
+
+.github .div-6 {
+  position: relative;
+  width: 408px;
+  height: 408px;
+  border: 0px none;
+}
+
+.github .overlap-group-wrapper {
+  height: 408px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.github .overlap-group {
+  position: relative;
+  width: 408px;
+  height: 408px;
+}
+
+.github .img-2 {
+  width: 408px;
+  height: 408px;
+  border-radius: 16px;
+  box-shadow: 0px 10px 15px #0000001a, 0px 4px 6px #0000001a;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0px none;
+  background-image: url(./img/img.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.github .ghibli-portrait {
+  position: absolute;
+  width: 408px;
+  height: 408px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.github .section-2 {
+  height: 1236px;
+  top: 1036px;
+  background-color: #f8f9fa;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+  border: 0px none;
+}
+
+.github .div-7 {
+  position: relative;
+  width: 896px;
+  height: 1076px;
+  top: 80px;
+  left: 272px;
+  border: 0px none;
+}
+
+.github .text-wrapper-5 {
+  position: absolute;
+  top: 0;
+  left: 333px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #2d3436;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.github .div-8 {
+  position: absolute;
+  width: 864px;
+  height: 992px;
+  top: 84px;
+  left: 16px;
+  border: 0px none;
+}
+
+.github .div-9 {
+  display: flex;
+  width: 864px;
+  height: 320px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 16px;
+  border: 0px none;
+  box-shadow: 0px 1px 2px #0000000d;
+}
+
+.github .div-10 {
+  display: flex;
+  flex-direction: column;
+  width: 468px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  padding: 2px 0px;
+  position: relative;
+  border: 0px none;
+}
+
+.github .text-wrapper-6 {
+  position: relative;
+  align-self: stretch;
+  height: 24px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #2d3436;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.github .div-11 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 400;
+  color: #4b5563;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.github .span {
+  font-weight: 700;
+}
+
+.github .text-wrapper-7 {
+  font-family: "Inter-Regular", Helvetica;
+}
+
+.github .frame-7 {
+  position: relative;
+  width: 261px;
+  height: 261px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.github .overlap-group-2 {
+  position: relative;
+  height: 261px;
+}
+
+.github .img-3 {
+  width: 261px;
+  height: 261px;
+  border-radius: 10.24px;
+  box-shadow: 0px 6.4px 9.6px #0000001a, 0px 2.56px 3.84px #0000001a;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0px none;
+  background-image: url(./img/img-4.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.github .ghibli-portrait-2 {
+  position: absolute;
+  width: 261px;
+  height: 261px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.github .div-12 {
+  display: flex;
+  width: 864px;
+  height: 320px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px;
+  position: absolute;
+  top: 341px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 16px;
+  border: 0px none;
+  box-shadow: 0px 1px 2px #0000000d;
+}
+
+.github .img-4 {
+  width: 261px;
+  height: 261px;
+  border-radius: 10.24px;
+  box-shadow: 0px 6.4px 9.6px #0000001a, 0px 2.56px 3.84px #0000001a;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0px none;
+  background-image: url(./img/img-3.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.github .div-13 {
+  display: flex;
+  width: 864px;
+  height: 320px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 24px;
+  position: absolute;
+  top: 683px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 16px;
+  border: 0px none;
+  box-shadow: 0px 1px 2px #0000000d;
+}
+
+.github .img-5 {
+  width: 261px;
+  height: 261px;
+  border-radius: 10.24px;
+  box-shadow: 0px 6.4px 9.6px #0000001a, 0px 2.56px 3.84px #0000001a;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0px none;
+  background-image: url(./img/img-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.github .section-3 {
+  height: 342px;
+  top: 2272px;
+  background-color: #ffffff;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+  border: 0px none;
+}
+
+.github .div-14 {
+  position: relative;
+  width: 896px;
+  height: 182px;
+  top: 80px;
+  left: 272px;
+  border: 0px none;
+}
+
+.github .text-wrapper-8 {
+  position: absolute;
+  width: 199px;
+  top: 0;
+  left: 349px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #2d3436;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.github .text-wrapper-9 {
+  position: absolute;
+  width: 440px;
+  top: 58px;
+  left: 227px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #4b5563;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.github .div-15 {
+  position: absolute;
+  width: 448px;
+  height: 50px;
+  top: 132px;
+  left: 224px;
+  border: 0px none;
+}
+
+.github .input {
+  position: absolute;
+  width: 291px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e5e7eb;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #adaebc;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  padding: 0;
+  padding-left: 16px;
+}
+
+.github .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  width: 141px;
+  height: 50px;
+  top: 0;
+  left: 307px;
+  position: absolute;
+  background-color: #496692;
+  border-radius: 8px;
+  border: 0px none;
+}
+
+.github .text-wrapper-10 {
+  position: absolute;
+  width: 76px;
+  top: 15px;
+  left: 32px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.github .footer {
+  position: absolute;
+  width: 1440px;
+  height: 89px;
+  top: 2614px;
+  left: 0;
+  background-color: #f8f9fa;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-color: #f3f4f6;
+}
+
+.github .div-16 {
+  position: relative;
+  width: 896px;
+  height: 24px;
+  top: 33px;
+  left: 272px;
+  border: 0px none;
+}
+
+.github .text-wrapper-11 {
+  position: absolute;
+  top: 2px;
+  left: 295px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #4b5563;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
