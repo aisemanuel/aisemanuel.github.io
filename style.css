@@ -526,6 +526,10 @@
     border-radius: 8px;
     border: 0px none;
   }
+
+.button:hover {
+    background-color: #6A7C89; /* Darker shade on hover */
+  }
   
   .gitty .text-wrapper-8 {
     position: absolute;
