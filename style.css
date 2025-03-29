@@ -11,8 +11,7 @@
   .gitty .header {
     display: flex;
     flex-direction: column;
-    width: 100%;
-    max-width: 864px
+    width: 864px;
     align-items: center;
     gap: 8px;
     padding: 168px 272px;
@@ -139,7 +138,7 @@
   
   .gitty .about-me-content {
     display: flex;
-    max-width: 864px
+    width: 864px
     height: 380px;
     align-items: center;
     justify-content: space-between;
@@ -442,7 +441,7 @@
   }
   
   .gitty .div-3 {
-    position: relative;
+    position: center;
     align-self: stretch;
     width: 864px;
     height: 182px;
@@ -552,7 +551,7 @@
   
   .gitty .div-5 {
     position: relative;
-    max-width: 896px;
+    width: 864px;
     height: 24px;
     top: 33px;
     left: 272px;
