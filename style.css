@@ -449,6 +449,7 @@
   .gitty .div-3 {
     position: relative;
     align-self: center;
+    justify-content: space-between; /* Distribute items from top to bottom */
     width: 864px;
     height: 230px;
     border: 0px none;
