@@ -318,7 +318,7 @@
 
 .gitty .tech-item {
   display: flex;
-  flex-direction: column; /* Stack vertically on mobile */
+  flex-direction: column; /* Stack vertically on mobile by default */
   align-items: center;
   justify-content: center;
   padding: 24px;
@@ -656,5 +656,14 @@
   .gitty .button {
     width: 35%;
     margin: 0;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .gitty .tech-item {
+    flex-direction: row; /* Horizontal layout for desktop */
+    align-items: center;
+    justify-content: space-between;
+    gap: 0; /* Remove gap when in horizontal layout */
   }
 }
