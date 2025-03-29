@@ -465,20 +465,19 @@
   }
   
   .gitty .text-wrapper-7 {
-    position: absolute;
-    width: 440px;
-    top: 58px;
-    left: 227px;
-    font-family: var(--paragraph-font-family);
-    font-weight: var(--paragraph-font-weight);
-    color: var(--white);
-    font-size: var(--paragraph-font-size);
-    text-align: center;
-    letter-spacing: var(--paragraph-letter-spacing);
-    line-height: var(--paragraph-line-height);
-    white-space: nowrap;
-    font-style: var(--paragraph-font-style);
-  }
+  position: absolute;
+  width: 440px;
+  top: 58px;
+  left: 227px;
+  font-family: var(--paragraph-font-family);
+  font-weight: var(--paragraph-font-weight);
+  color: var(--white);
+  font-size: var(--paragraph-font-size);
+  text-align: center;
+  letter-spacing: var(--paragraph-letter-spacing);
+  line-height: var(--paragraph-line-height);
+  font-style: var(--paragraph-font-style);
+}
   
   .gitty .div-4 {
     position: absolute;
