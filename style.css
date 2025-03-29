@@ -5,12 +5,13 @@
     justify-content: center;
     position: relative;
     background-color: #ffffff;
+    width: 100vw; 
   }
   
   .gitty .header {
     display: flex;
     flex-direction: column;
-    width: 1440px;
+    width: 100%;
     align-items: flex-start;
     gap: 8px;
     padding: 168px 272px;
@@ -118,7 +119,7 @@
   .gitty .about-me {
     display: flex;
     flex-direction: column;
-    width: 1440px;
+    width: 100%;
     align-items: center;
     justify-content: center;
     gap: 8px;
@@ -260,7 +261,7 @@
   
   .gitty .featured-tech {
     display: flex;
-    width: 1440px;
+    width: 100%;
     align-items: center;
     justify-content: center;
     padding: 80px 272px;
@@ -421,7 +422,7 @@
   .gitty .section {
     display: flex;
     flex-direction: column;
-    width: 1440px;
+    width: 100%;
     align-items: center;
     justify-content: center;
     gap: 8px;
@@ -530,7 +531,7 @@
   
   .gitty .footer {
     position: relative;
-    width: 1440px;
+    width: 100%;
     height: 89px;
     background-color: #f8f9fa;
     border-top-width: 1px;
