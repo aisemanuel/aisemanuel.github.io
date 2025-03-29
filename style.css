@@ -549,7 +549,7 @@
 .gitty .footer {
   position: relative;
   width: 100%;
-  height: 89px;
+  height: 116px;
   justify-content: center;
   background-color: #f8f9fa;
   border-top-width: 1px;
@@ -760,7 +760,7 @@
   /* Footer */
   .gitty .footer {
     height: auto;
-    padding: 20px 0;
+    padding: 20px;
   }
   
   .gitty .div-5 {
