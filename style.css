@@ -91,6 +91,12 @@
     transition: background-color 0.3s ease;
   }
 
+  .gitty .connect-button span {
+    color: white; /* Text color */
+    font-size: 18px; /* Font size */
+    font-weight: bold; /* Font weight */
+  }
+
   .connect-button:hover {
     background-color: #6A7C89; /* Darker shade on hover */
   }
