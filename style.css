@@ -568,6 +568,7 @@
   left: 50%; /* Center the div horizontally */
   transform: translateX(-50%); /* Adjust for perfect centering */
   border: 0px none;
+  padding-bottom: 32px;
 }
 
 .gitty .text-wrapper-9 {
