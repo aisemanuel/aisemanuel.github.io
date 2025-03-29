@@ -483,6 +483,7 @@
   letter-spacing: var(--paragraph-letter-spacing);
   line-height: var(--paragraph-line-height);
   font-style: var(--paragraph-font-style);
+margin-bottom: 32px;
 }
   
   .gitty .div-4 {
