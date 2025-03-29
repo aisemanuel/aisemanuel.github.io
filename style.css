@@ -379,6 +379,7 @@
   position: relative;
   width: 100%;
   max-width: 261px;
+  max-height: 261px;
   padding-top: 100%; /* Create a perfect square based on width */
   border-radius: 8px;
   overflow: hidden;
