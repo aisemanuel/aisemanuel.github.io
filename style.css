@@ -196,7 +196,7 @@
   
   .gitty .linkedin {
     display: flex;
-    width: 21px;
+    width: 24px;
     height: 24px;
     align-items: center;
     justify-content: center;
@@ -211,7 +211,7 @@
   
   .gitty .github {
     display: flex;
-    width: 23.25px;
+    width: 24px;
     height: 24px;
     align-items: center;
     justify-content: center;
