@@ -103,10 +103,13 @@
   font-weight: bold; /* Font weight */
   text-align: center; /* Ensures text is centered if needed */
   font-family: 'Inter', sans-serif; /* Add this line to specify a font */
-}
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  }
 
-  .connect-button:hover {
-    background-color: #6A7C89; /* Darker shade on hover */
+.connect-button:hover {
+    background-color: #6A7C89;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+   transform: translateY(-3px); 
   }
   
   .gitty .let-s-connect {
