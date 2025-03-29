@@ -450,7 +450,7 @@
     position: relative;
     align-self: center;
     width: 864px;
-    height: 230px;
+    height: 200px;
     border: 0px none;
   }
   
@@ -483,7 +483,6 @@
   letter-spacing: var(--paragraph-letter-spacing);
   line-height: var(--paragraph-line-height);
   font-style: var(--paragraph-font-style);
-margin-bottom: 32px;
 }
   
   .gitty .div-4 {
@@ -493,6 +492,7 @@ margin-bottom: 32px;
     top: 132px;
     left: 224px;
     border: 0px none;
+    padding-top: 16px;
   }
   
   .gitty .input {
