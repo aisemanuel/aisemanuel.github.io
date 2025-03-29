@@ -11,8 +11,9 @@
 <h2>Repository Structure</h2>
 <pre>
 aisemanuel
+├── globals.css
 │── images/
-│   ├── bose-700.jpg
+    ├── bose-700.jpg
     ├── ghibli-portrait.jpg
     ├── github.jpg
     ├── ipad-mini-6.jpg
