@@ -11,8 +11,9 @@
   .gitty .header {
     display: flex;
     flex-direction: column;
-    width: 864px;
+    width: 100%;
     align-items: center;
+    justify-content: center;
     gap: 8px;
     padding: 168px 272px;
     position: relative;
@@ -144,7 +145,7 @@
     justify-content: space-between;
     width: 100%;
     position: relative;
-    align-self: stretch;
+    align-self: center;
   }
   
   .gitty .main-text {
@@ -441,8 +442,8 @@
   }
   
   .gitty .div-3 {
-    position: center;
-    align-self: stretch;
+    position: relative;
+    align-self: center;
     width: 864px;
     height: 182px;
     border: 0px none;
@@ -540,6 +541,7 @@
     position: relative;
     width: 100%;
     height: 89px;
+    justify-content: center;
     background-color: #f8f9fa;
     border-top-width: 1px;
     border-top-style: solid;
