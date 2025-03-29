@@ -10,17 +10,17 @@
 
 <h2>Repository Structure</h2>
 <pre>
-my-static-site/
-│── assets/
-│   ├── css/
-│   │   ├── styles.css
-│   ├── images/
-│   │   ├── bose700.png
-│   │   ├── ipad-mini6.png
-│   │   ├── keychron.png
-│   ├── js/
-│   │   ├── script.js
+aisemanuel
+│── images/
+│   ├── bose-700.jpg
+    ├── ghibli-portrait.jpg
+    ├── github.jpg
+    ├── ipad-mini-6.jpg
+    ├── keychron.jpg
+    ├── linkedin.png
 │── index.html
+├── style.css
+├── styleguide.css
 │── README.md
 │── .gitignore
 </pre>
