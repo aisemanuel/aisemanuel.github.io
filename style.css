@@ -763,21 +763,28 @@
   /* Footer */
   .gitty .footer {
     height: auto;
-    padding: 20px;
+    padding: 20px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   .gitty .div-5 {
+    position: static;
     width: 100%;
-    top: 0;
+    height: auto;
+    top: auto;
+    left: auto;
+    transform: none;
+    padding: 0;
   }
     
   .gitty .text-wrapper-9 {
-    position: relative; /* Allow it to flow naturally */
-    width: 100%; /* Ensure it spans the full width */
-    white-space: normal; /* Allow text to wrap */
-    top: auto;
+    position: static;
+    width: 100%;
     left: auto;
-    transform: none; /* Remove absolute centering */
+    transform: none;
+    text-align: center;
   }
 }
 
