@@ -767,6 +767,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    box-sizing: border-box;
   }
   
   .gitty .div-5 {
@@ -777,6 +779,7 @@
     left: auto;
     transform: none;
     padding: 0;
+    box-sizing: border-box;
   }
     
   .gitty .text-wrapper-9 {
@@ -785,6 +788,10 @@
     left: auto;
     transform: none;
     text-align: center;
+    font-size: 12px; 
+    white-space: normal; 
+    padding: 0 10px;
+    box-sizing: border-box;
   }
 }
 
