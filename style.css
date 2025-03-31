@@ -770,6 +770,15 @@
     width: 100%;
     top: 0;
   }
+    
+  .gitty .text-wrapper-9 {
+    position: relative; /* Allow it to flow naturally */
+    width: 100%; /* Ensure it spans the full width */
+    white-space: normal; /* Allow text to wrap */
+    top: auto;
+    left: auto;
+    transform: none; /* Remove absolute centering */
+  }
 }
 
 /* Additional breakpoint for extra small devices */
